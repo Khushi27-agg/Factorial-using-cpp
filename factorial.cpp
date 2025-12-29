@@ -22,8 +22,10 @@ class Fact{
     }
 };
 int main() {
+    //for example if want to get the factorial of 11 so we have to do the following steps:
     Fact f(11);
     cout<<f.getfactorial();
 
     return 0;
+
 }
